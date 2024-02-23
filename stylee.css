@@ -1,5 +1,8 @@
 body{
-    <body background="assett/img/background.jpg"
+    body background="assett/img/background.jpg"
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .grid{
     display: grid;
