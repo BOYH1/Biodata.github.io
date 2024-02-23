@@ -94,6 +94,7 @@
     text-align: center;
     position: relative;
     top: 50%;
+    width: 100%;
   }
   header .intro h3 {
     font-size: 50px;
